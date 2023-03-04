@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688797191072",
+    "project_id": "pad-purple-wallpaper-hd-4k",
+    "storage_bucket": "pad-purple-wallpaper-hd-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688797191072:android:21d12c86ba9d030f0af2c5",
+        "android_client_info": {
+          "package_name": "com.putriayu.wallpaper.hd4k.purple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688797191072-v4hvklgspmme5nchc0sgohbin8eeac4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDw84x8s6MY4CG2OZ1lZ9Y9KHKrUjg2fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688797191072-v4hvklgspmme5nchc0sgohbin8eeac4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
